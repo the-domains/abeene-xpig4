@@ -1,0 +1,14 @@
+layout_spectrum: 0.45771656767465174
+typography_spectrum: 0.4728254182264209
+color:
+  brandStrength: 0.1443841392174363
+  lightness: 0.27737409016117454
+  saturation: 0.8226525362115353
+  rhythmicContrast: 0.4034147555939853
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: abeene
